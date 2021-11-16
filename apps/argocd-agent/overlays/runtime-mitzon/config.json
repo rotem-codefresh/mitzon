@@ -1,0 +1,1 @@
+{"appName":"argocd-agent","userGivenName":"argocd-agent","destNamespace":"runtime-mitzon","destServer":"https://kubernetes.default.svc","srcPath":"apps/argocd-agent/overlays/runtime-mitzon","srcRepoURL":"https://github.com/rotem-codefresh/mitzon.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
