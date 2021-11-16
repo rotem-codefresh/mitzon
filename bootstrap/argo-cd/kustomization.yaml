@@ -13,7 +13,7 @@ configMapGenerator:
   name: argocd-cm
 - behavior: merge
   literals:
-  - server.disable.auth=true
+  - server.disable.auth=false
   - repo.server=192.168.1.2:8081
   name: argocd-cmd-params-cm
 kind: Kustomization
