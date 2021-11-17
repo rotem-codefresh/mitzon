@@ -1,1 +1,0 @@
-{"appName":"app-proxy","userGivenName":"app-proxy","destNamespace":"runtime-mitzon","destServer":"https://kubernetes.default.svc","srcPath":"apps/app-proxy/overlays/runtime-mitzon","srcRepoURL":"https://github.com/rotem-codefresh/mitzon.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}

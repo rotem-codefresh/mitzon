@@ -1,1 +1,0 @@
-{"appName":"events","userGivenName":"events","destNamespace":"runtime-mitzon","destServer":"https://kubernetes.default.svc","srcPath":"apps/events/overlays/runtime-mitzon","srcRepoURL":"https://github.com/rotem-codefresh/mitzon.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
