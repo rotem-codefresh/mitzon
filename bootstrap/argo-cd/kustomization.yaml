@@ -11,11 +11,6 @@ configMapGenerator:
         key: git_username
         name: autopilot-secret
   name: argocd-cm
-- behavior: merge
-  literals:
-  - server.disable.auth=false
-  - repo.server=192.168.1.2:8081
-  name: argocd-cmd-params-cm
 kind: Kustomization
 namespace: runtime-mitzon
 resources:
